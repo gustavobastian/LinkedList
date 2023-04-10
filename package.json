@@ -1,0 +1,23 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "simple implementation of a linkedlist in javascript",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavobastian/LinkedList.git"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms"
+  ],
+  "author": "Gustavo Bastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavobastian/LinkedList/issues"
+  },
+  "homepage": "https://github.com/gustavobastian/LinkedList#readme"
+}
